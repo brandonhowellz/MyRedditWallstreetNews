@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f6f6f6;
+  }
+  
+  .container {
+    margin-top: 20px;
+  }
+  
+  .list-group-item {
+    border: 1px solid #ddd;
+    margin-top: 10px;
+  }
+  
+  .pagination {
+    margin-top: 20px;
+  }
+  
+  .loading {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #888;
+  }
+  
